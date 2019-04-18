@@ -8,6 +8,8 @@ _Repository for learning 650x series assembly on the Commodore 64_
 - Symlink `c64-devkit/emulator/linux/x64` to `/usr/local/bin/x64`
 - Run `make` in `c64-devkit/` to compile and automatically run
  `main.asm` in `source/`
+- Because compilation is slightly involved, binaries are included in the git
+  repo if you want to try them out.
 
 ## Resources:
 - [VICE emulator](http://vice-emu.sourceforge.net/vice_toc.html)
