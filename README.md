@@ -1,6 +1,6 @@
 # c64
 ![image](screenshot.png)
-_Repository for learning 6502 assembly on the Commodore 64_
+_Repository for learning 650x series assembly on the Commodore 64_
 
 ## Development Environment
 - Install [VICE](http://vice-emu.sourceforge.net/vice_toc.html)
